@@ -7,25 +7,6 @@ This is where I try things, break things, and write about what I learned in the 
 
 ---
 
-## **Leave a Thought – I’m All Ears**
-
-If you stumble on something here and think:  
-“Hey, I do that differently” or  
-“There’s a better way” or  
-“Wanna see a weird trick I use?” —  
-
-**Please drop it. Seriously.**
-
-- Prompting ideas  
-- Better ways to structure code  
-- Your favorite tech stacks  
-- AI, full-stack, robotics – anything goes
-
-I love hearing what works for *you*.  
-You never know what tiny insight might change the way I think or build.
-
----
-
 ## **What You’ll Find Here**
 
 A bunch of **experimental projects**.
@@ -44,6 +25,25 @@ Inside, you'll find my thoughts, what I tried, what worked, what didn’t, and t
 - Creating a full-stack app by **speaking my way through it**  
   Using **ChatGPT’s speech-to-text** to craft prompts, and **Cursor** to turn those prompts into code.  
   Can you build a real project using only your voice? I’m finding out.
+
+---
+
+## **Leave a Thought – I’m All Ears**
+
+If you stumble on something here and think:  
+“Hey, I do that differently” or  
+“There’s a better way” or  
+“Wanna see a weird trick I use?” —  
+
+**Please drop it. Seriously.**
+
+- Prompting ideas  
+- Better ways to structure code  
+- Your favorite tech stacks  
+- AI, full-stack, robotics – anything goes
+
+I love hearing what works for *you*.  
+You never know what tiny insight might change the way I think or build.
 
 ---
 
