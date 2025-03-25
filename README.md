@@ -1,4 +1,7 @@
-Welcome to my digital sandbox. I’m Salman – a computer engineer with a master’s in AI & Data Science.
+## Welcome to my page**
+
+
+Welcome to my digital sandbox. I’m Salman – a computer engineer with a master’s in computer science (AI & Data Science).
 
 This is where I try things, break things, and write about what I learned in the process. It’s not about polished projects. It’s about **curiosity**, **experimentation**, and **play**.
 
