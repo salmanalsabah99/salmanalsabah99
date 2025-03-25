@@ -24,7 +24,7 @@ Inside, you'll find my thoughts, what I tried, what worked, what didn’t, and t
 
 - Creating a full-stack app by **speaking my way through it**  
   Using **ChatGPT’s speech-to-text** to craft prompts, and **Cursor** to turn those prompts into code.  
-  Can you build a real project using only your voice? I’m finding out.
+  Can you build a real project using your voice? I’m finding out.
 
 ---
 
