@@ -1,4 +1,4 @@
-## Welcome to my page**
+## Welcome to my page
 
 
 Welcome to my digital sandbox. I’m Salman – a computer engineer with a master’s in computer science (AI & Data Science).
