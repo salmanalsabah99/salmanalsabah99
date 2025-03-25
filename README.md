@@ -33,15 +33,17 @@ A bunch of **experimental projects**.
 Each repo is a little journal entry:
 - Some are useful
 - Some are just noodling around
-- All are honest
+- Some are beautiful flops that helped me try something new
 
 Inside, you'll find my thoughts, what I tried, what worked, what didn’t, and the weird paths I took to figure things out.
 
 ---
 
-## **Now Playing With**
+## Now Playing With
 
-- Creating a full-stack project using **Cursor** + **ChatGPT text-to-speech-to-text** for prompting
+- Creating a full-stack app by **speaking my way through it**  
+  Using **ChatGPT’s speech-to-text** to craft prompts, and **Cursor** to turn those prompts into code.  
+  Can you build a real project using only your voice? I’m finding out.
 
 ---
 
